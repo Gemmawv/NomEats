@@ -68,3 +68,7 @@ padding: 10px;
     background-repeat: repeat-y;
 }
 
+#remove {
+    color: red;
+    text-align: center
+}
